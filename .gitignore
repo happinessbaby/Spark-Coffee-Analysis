@@ -1,0 +1,9 @@
+.bloop
+.bsp
+.metals
+.vscode
+metastore_db
+project
+spark-warehouse
+target
+.misc

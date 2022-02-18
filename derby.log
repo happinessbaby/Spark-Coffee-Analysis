@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 15 11:35:35 CST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-fe74-3307-000036119540 
+on database directory C:\Users\joyce\IdeaProjects\coffee_analysis\metastore_db with class loader sbt.internal.LayeredClassLoader@5d569c5e 
+Loaded from file:/C:/Users/joyce/IdeaProjects/coffee_analysis/target/bg-jobs/sbt_c7b5a8ff/target/6b03105d/0b708d5e/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.13+10-LTS-370
+user.dir=C:\Users\joyce\IdeaProjects\coffee_analysis
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
