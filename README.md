@@ -11,7 +11,7 @@ More specifically, the consumer counts data are in patterns of XYXY, where X bei
 ![daily beverages](./beverageDaily.png)
 
 
-## Data Problem:
+## Data Problems:
 With my python code, I found exact replicas in the consumer counts files.
 
 ![replicas](./replicas.png)
@@ -24,7 +24,7 @@ For each beverage, it can exist on 1 to 5 other branches.
 
 
 
-## Result:
+## Sample Results:
 
 ![distribution](./beverageDist.png)
 
