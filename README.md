@@ -11,7 +11,7 @@ More specifically, the consumer counts data are in patterns of XYXY, where X bei
 ![daily beverages](./beverageDaily.png)
 
 
-## Problems with data:
+## Data Problem:
 With my python code, I found exact replicas in the consumer counts files.
 
 ![replicas](./replicas.png)
