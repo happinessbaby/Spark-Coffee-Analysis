@@ -1,4 +1,8 @@
-## BEVERAGES CONSUMER ANALYSIS
+### BEVERAGES CONSUMER ANALYSIS
+
+
+# Summary:
+This project lets you query into 3 Consumer Counts data for 54 coffee beverages sold across 9 branches. You are given a menu, from where you can query into the statistics of the beverages and consumer counts, including the most popular beverages on each branch, the common beverages across different branches, and total consumer counts. You're also given other options including adding comments and deleting rows.
 
 # Description:
 For this project, I first used python to find patterns in the data. I found that there are patterns existing in not only the Branches data but also in the Consumer Counts data.
@@ -20,8 +24,7 @@ For each beverage, it can exist on 1 to 5 other branches.
 
 
 
-# Summary:
-This project lets you query into 3 Consumer Counts data for 54 coffee beverages sold across 9 branches. You are given a menu, from where you can query into the statistics of the beverages and consumer counts, including the most popular beverages on each branch, the common beverages across different branches, and total consumer counts. You're also given other options including adding comments and deleting rows.
+# Result:
 
 ![distribution](./beverageDist.png)
 
